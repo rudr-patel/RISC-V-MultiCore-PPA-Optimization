@@ -81,7 +81,7 @@ I utilized KLayout to merge the physical layout and verify cell matching.
 |:--------:|:--------:|
 | ![](documentation/floorplan.png) | ![](documentation/pin-density.png) |
 | **Place** | **Placement Density** |
-| ![](documentation/place.png) | ![](documentation/placement.density.png) |
+| ![](documentation/place.png) | ![](documentation/placement-density.png) |
 | **CTS** | **Estimated Congestion** |
 | ![](documentation/cts.png) | ![](documentation/estimated-congestion.png) |
 | **Route** | **Routing Congestion** |
