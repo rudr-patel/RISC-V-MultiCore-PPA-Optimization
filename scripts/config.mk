@@ -23,7 +23,7 @@ export SYNTH_CLOCK_GATING = 1
 # ------------------------------------------------------------------------------
 # 3. Floorplanning Constraints
 # ------------------------------------------------------------------------------
-# Define 0.25mm^2 die (600um x 600um)
+# Define 0.36mm^2 die (600um x 600um)
 export DIE_AREA           = 0 0 600 600
 export CORE_AREA          = 10 10 590 590
 
