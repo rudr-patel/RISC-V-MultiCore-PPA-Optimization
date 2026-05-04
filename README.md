@@ -80,14 +80,16 @@ I utilized KLayout to merge the physical layout and verify cell matching.
 | Floorplan | Pin Density |
 |:--------:|:--------:|
 | ![](documentation/floorplan.png) | ![](documentation/pin-density.png) |
-| **Place** | **Routing Congestion** |
-| ![](documentation/place.png) | ![](documentation/routing-congestion.png) |
-| **CTS** | **Power Density** |
-| ![](documentation/cts.png) | ![](documentation/power-density.png) |
-| **Route** | **IR-Drop Heatmap (VSS)** |
-| ![](documentation/route.png) | ![](documentation/ir-drop-vss.png) |
-| **Final GDSII Layout** | **IR-Drop Heatmap (VDD)** |
-| ![](documentation/final.png) | ![](documentation/ir-drop-vdd.png) |
+| **Place** | **Placement Density** |
+| ![](documentation/place.png) | ![](documentation/placement.density.png) |
+| **CTS** | **Estimated Congestion** |
+| ![](documentation/cts.png) | ![](documentation/estimated-congestion.png) |
+| **Route** | **Routing Congestion** |
+| ![](documentation/route.png) | ![](documentation/routing-congestion.png) |
+| **Final GDSII Layout** | **Power Density** |
+| ![](documentation/final.png) | ![](documentation/power-density.png) |
+| **IR Drop (VDD)** | **IR Drop (VSS)** |
+| ![](documentation/ir-drop-vdd.png) | ![](documentation/ir-drop-vss.png) |
 
 ---
 
