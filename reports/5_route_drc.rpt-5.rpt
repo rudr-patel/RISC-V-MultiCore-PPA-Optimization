@@ -1,0 +1,12 @@
+violation type: Short
+	srcs: net:net1280 net:VSS
+	bbox = (302.3400, 432.7000) - (303.9400, 433.2800) on Layer met5
+violation type: Short
+	srcs: net:net1280 net:VSS
+	bbox = (348.5700, 432.7000) - (350.1700, 433.2800) on Layer met5
+violation type: Short
+	srcs: net:net1280 net:VSS
+	bbox = (302.3400, 432.7000) - (350.1700, 433.2800) on Layer met5
+violation type: Metal Spacing
+	srcs: net:net1280 net:VSS
+	bbox = (109.1400, 433.2800) - (111.6600, 433.9000) on Layer met5
